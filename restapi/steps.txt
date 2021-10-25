@@ -1,0 +1,5 @@
+1- server
+2- connection to a database
+3- create a model
+4- CRUD// create read update delete // post put get delete
+5- use the api in the front end

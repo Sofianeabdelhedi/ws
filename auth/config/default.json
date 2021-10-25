@@ -1,0 +1,4 @@
+{
+  "database": "mongodb+srv://sofiane:0000@cluster0.6kmbj.mongodb.net/auth?retryWrites=true&w=majority",
+  "secret": "shhhh"
+}
